@@ -1,0 +1,1 @@
+﻿Get-Content 'C:\DJ\PDUMA\new files\#20170126121422#_#0874#_UDW_Detail_PHP_20160301.txt.pgp'|select -first 5|Out-File 'C:\DJ\PDUMA\new files\udwDetail.txt'
